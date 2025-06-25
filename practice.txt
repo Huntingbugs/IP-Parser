@@ -1,0 +1,13 @@
+Practice makes perfect!
+
+
+git clone URL.git
+cd <repo name>
+git branch -a                                (list of branches)
+git checkout -b <branch name>                 to create a new branch and also switches to the new branch
+git status                                   to see what is in the branch
+notepad example.txt                           to open a new text file in notepad. type and save the content over here. 
+git add example.txt                          to stage the changes
+git commit -m "Add example.txt file"         to commit the changes
+git push origin <branch name>                to push the changes
+
